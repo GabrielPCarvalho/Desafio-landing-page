@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="" src="" width="30%">
+  <img src="./img/gifProject.gif" width="90%">
 </p>
 
 <p align="center">
@@ -15,11 +15,9 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=161e2f&labelColor=107770" alt="License">
  
-  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/
-Desafio-landing-page ?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/Desafio-landing-page?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/
-Desafio-landing-page ?label=stars&message=MIT&color=161e2f&labelColor=107770" alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/Desafio-landing-page?label=stars&message=MIT&color=161e2f&labelColor=107770" alt="Stars">
 </p>
 
 <p align="center">
