@@ -15,9 +15,9 @@
 <p align="center">
  <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=161e2f&labelColor=107770" alt="License">
  
-  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/Desafio-landing-page?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
+  <img src="https://img.shields.io/github/forks/GabrielPCarvalho/Landing-Page-Error-404?label=forks&message=MIT&color=161e2f&labelColor=107770" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/Desafio-landing-page?label=stars&message=MIT&color=161e2f&labelColor=107770" alt="Stars">
+  <img src="https://img.shields.io/github/stars/GabrielPCarvalho/Landing-Page-Error-404?label=stars&message=MIT&color=161e2f&labelColor=107770" alt="Stars">
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/Desafio-landing-page/
+Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/Landing-Page-Error-404-page/
 
 ## 🎨 Inspiração:
 
