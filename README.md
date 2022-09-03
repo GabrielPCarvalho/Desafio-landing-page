@@ -39,7 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto:
 
-Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/Landing-Page-Error-404-page/
+Finalizado - para poder acessar o projeto, basta clicar no link a seguir: https://gabrielpcarvalho.github.io/Landing-Page-Error-404/
 
 ## 🎨 Inspiração:
 
